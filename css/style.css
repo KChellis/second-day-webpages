@@ -1,23 +1,25 @@
 h1 {
-  font-family: arial; 
-  font-size: 75px;
-  color: red;
+  text-transform: capitalize;
+  color: rebeccapurple;
   text-align: center;
+  font-size: 70px;
+  line-height: .5em;
 }
 
 h2 {
-  font-size: 45px;
-  color: green;
-  font-style: italic;
   text-align: center;
+  font-style: italic;
+}
+
+.mainimage {
+  display: block;
+  margin: auto;
 }
 
 p {
-  font-weight: 500;
-  font-family: sans-serif;
+
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+
 }
