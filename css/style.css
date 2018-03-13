@@ -1,0 +1,23 @@
+h1 {
+  font-family: arial; 
+  font-size: 75px;
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-size: 45px;
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
